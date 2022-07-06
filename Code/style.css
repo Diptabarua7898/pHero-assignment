@@ -1,0 +1,203 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.header-type{
+    background-image: url(donation11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: whitesmoke;
+    height: 650px;
+    text-align: center;
+}
+.top-file{
+    padding-top:200px ;
+    font-size: 50px;
+    font-weight: bolder;
+}    
+.fonts{
+    font-size: 18px;
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+.buttons{
+    background-image: linear-gradient(pink,red) ;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    
+    
+}
+.body-type{
+    text-align: center;
+}
+.donate{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.boxes{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.box1{
+    background-color: rgb(245, 238, 238);
+    font-size: 40px;
+    padding: 30px 50px;
+    color: rgb(59, 54, 54);
+    margin-right: 20px;
+    border: 5px solid transparent;
+    border-radius: 20px;
+
+    
+}
+.box2{
+    background-color: rgb(245, 238, 238);
+    font-size: 40px;
+    padding: 30px 50px;
+    color: rgb(59, 54, 54);
+    margin-right: 20px;
+    border: 5px solid transparent;
+    border-radius: 20px;
+}
+.box3{
+    background-color: rgb(245, 238, 238);
+    font-size: 40px;
+    padding: 30px 50px;
+    color: rgb(59, 54, 54);
+    margin-right: 20px;
+    border: 5px solid rgb(250, 173, 186);
+    border-radius: 20px;
+}
+.box4{
+    background-color: rgb(245, 238, 238);
+    font-size: 40px;
+    padding: 30px 50px;
+    color: rgb(59, 54, 54);
+    margin-right: 20px;
+    border: 5px solid transparent;
+    border-radius: 20px;
+}
+.box5{
+    background-color: rgb(245, 238, 238);
+    font-size: 40px;
+    padding: 30px 50px;
+    color: rgb(59, 54, 54);
+    margin-right: 20px;
+    border: 5px solid transparent;
+    border-radius: 20px;
+}
+#dollar{
+    text-align: center;
+    color: rgb(80, 77, 77)
+}
+.lines{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#point{
+    text-align: center;
+}
+.chart{
+    display: flex ;
+    margin-left: 155px;
+    margin-right: 140px;
+    text-align: center;
+    height: 450px;
+
+}
+#food{
+    height: 80x;
+    width: 100px;
+    padding-top: 20px;
+    margin-top: 40px;
+    
+}
+.chart1{
+    border: 5px solid transparent;
+    background-color: beige;
+    margin-right: 10px;
+    
+}
+#clothes{
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    margin-top: 37px;
+}
+.chart2{
+    border: 5px solid transparent;
+    background-color: rgb(227, 232, 233);
+    margin-right: 10px;
+}
+#frame{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+}
+.chart3{
+    border: 5px solid transparent;
+    background-color: lightcyan;
+}
+.banners{
+    display: flex;
+}
+.bnr{
+    padding-left: 160px;
+}
+.bnr1{
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.bnr1 p{
+   font-size: 14px;
+}
+#site{
+    margin-left: 170px;
+    color: rgb(126, 126, 248);
+}
+.email{
+    text-align: center;
+    
+}
+.email-box{
+    text-align: center;
+padding: 60px;
+background-color: bisque;
+margin-right: 300px;
+margin-left: 300px;
+}
+.submit{
+    text-decoration: none;
+    border: 5px solid transparent;
+    background-color: rgba(247, 35, 35, 0.904);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+#bg-color{
+    background-color: rgb(189, 186, 186);
+    height: 35px;
+    width: 180px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.footer{
+    text-align: center;
+    background-color: lightblue;
+    height: 200px;
+    
+}
+#margin{
+    
+    padding-top: 50px;
+}
+
+
